@@ -1,17 +1,17 @@
 {
   "name": "Master",
   "version": "1.0.0",
-  "description": "",
+  "description": "Materialize Site",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "Materialize test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Futurehub99/Master.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "DiveDeep",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Futurehub99/Master/issues"

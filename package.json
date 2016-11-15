@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Futurehub99/Master/issues"
   },
-  "homepage": "https://github.com/Futurehub99/Master#readme"
+  "homepage": "https://github.com/Futurehub99/Master#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "materialize-css": "^0.97.8",
+    "node-sass": "^3.12.5"
+  }
 }
